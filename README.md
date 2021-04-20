@@ -1,4 +1,4 @@
-# news_app
+# todoApp
 
 A new Flutter project.
 
